@@ -1,4 +1,4 @@
-# Database Management Systems II
+# Database Management Systems II | Veri Tabanı Yönetim Sistemleri II
 - **This repository contains examples, exercises, and course materials from my Database Management Systems II course.**
 - **The repository focuses on SQL Server, T-SQL, database objects, transactions, and database administration.**
   
