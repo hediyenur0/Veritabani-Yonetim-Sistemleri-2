@@ -1,6 +1,7 @@
 # Database Management Systems II
 - **This repository contains examples, exercises, and course materials from my Database Management Systems II course.**
 - **The repository focuses on SQL Server, T-SQL, database objects, transactions, and database administration.**
+  
 - *Bu repository, Veritabanı Yönetim Sistemleri II dersi kapsamında hazırladığım örnekleri, alıştırmaları ve ders materyallerini içermektedir.*
 - *Repository; SQL Server, T-SQL, veritabanı nesneleri, transaction işlemleri ve veritabanı yönetimi konularına odaklanmaktadır.*
 
@@ -45,7 +46,6 @@
 - T-SQL
 
 ## 📁 Repository Structure | Repository Yapısı
-## 📁 Repository Structure
 
 - **Veritabani-Yonetim-Sistemleri-2/**
   - **README.md**
@@ -70,7 +70,3 @@
 
 - **The purpose of this repository is to document my learning process and keep my SQL Server, T-SQL, and database administration studies organized throughout the course.**
 - *Bu repository'nin amacı, öğrenme sürecimi belgelemek ve SQL Server, T-SQL ve veritabanı yönetimi çalışmalarımı ders boyunca düzenli bir şekilde saklamaktır.*
-
-🎯 Amaç
-
-Bu repository'nin amacı, öğrenme sürecimi belgelemek ve SQL Server, T-SQL ve veritabanı yönetimi çalışmalarımı ders boyunca düzenli bir şekilde saklamaktır.
