@@ -1,4 +1,4 @@
-# SQL | SQL
+# SQL
 - **This folder contains SQL studies created as part of the Database Management Systems 2 course.**
 - *Bu klasör, Veritabanı Yönetim Sistemleri 2 dersi kapsamında yapılan SQL çalışmalarını içermektedir.*
 
